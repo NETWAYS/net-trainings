@@ -15,9 +15,6 @@
               {{ site.title | escape }}
             {% endif %}
             </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
         </ul>
       </div>
 
@@ -26,10 +23,8 @@
           <li>
 	    Phone: +49 911 92885-0
           </li>
-          <li>
-	    Email: info(at)netways.de
-          </li>
 
+            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
       </div>
 
