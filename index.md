@@ -5,9 +5,10 @@
 layout: home
 ---
 
-As an Open Source company we thought it is just consistent to release our training material to the public. Please make sure to use it according the the individual Creative Common [licenselicense).
+As an Open Source company we thought it is just consistent to release our training material to the public. Please make sure to use it according the the individual Creative Common [license](license).
 
-Of course feedback is more than welcome and appreciate your pull request on the corresponding [GitHub](http://www.github.com).
+Of course feedback is more than welcome and we appreciate your pull request on the corresponding GitHub repository.
+
 ## Foreman training
 
 <div class="wrap">
