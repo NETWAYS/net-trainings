@@ -1,0 +1,46 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.boxlogo {
+  width: 250px;
+  padding-top: 5px; 
+}
+
+.lfloat {
+  display: block;
+  float: left;
+}
+
+.wrap {
+  width: 640px;
+  height: 420px;
+  padding: 0;
+  overflow: hidden;
+}
+
+.zoomed_frame { 
+  width: 1280px;
+  height: 768px;
+  border: 1px solid grey;
+  padding-bottom: 0px;
+
+  -ms-transform: scale(0.50);
+  -moz-transform: scale(0.50);
+  -o-transform: scale(0.50);
+  -webkit-transform: scale(0.50);
+  transform: scale(0.50);
+
+  -ms-transform-origin: 0 0;
+  -moz-transform-origin: 0 0;
+  -o-transform-origin: 0 0;
+  -webkit-transform-origin: 0 0;
+  transform-origin: 0 0;
+}
+
+.description {
+  color: grey;
+  font-size: 0.9em;
+}
