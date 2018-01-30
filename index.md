@@ -20,7 +20,7 @@ Of course feedback is more than welcome and we appreciate your pull request on t
 This training is designed as a two day hands-on training introducing Foreman.
 </p>
 <p>
-In the training you will get basic knowlegde of the architecture of Foreman. You will install and configure Foreman to provide several ways of provisioning. The configuration management solution used is Puppet to show configuration management integration into Foreman. Furthermore user and permission management of Foreman is shown. And last but not least Foreman's extensibility is shown by introducing some plugins from basic ones to Katello.
+In the training you will get basic knowledge of the architecture of Foreman. You will install and configure Foreman to provide several ways of provisioning. The configuration management solution used is Puppet to show configuration management integration into Foreman. Furthermore user and permission management of Foreman is shown. And last but not least Foreman's extensibility is shown by introducing some plugins from basic ones to Katello.
 </p>
 <p>
 Targeted audience are experienced Linux administrators in need of a provisioning and management solution for their systems. Knowledgement of Puppet is of advantage but not required.
@@ -37,6 +37,34 @@ Targeted audience are experienced Linux administrators in need of a provisioning
 </ul>
 </div>
 
+## Graphite + Grafana training
+
+<div class="wrap">
+<iframe class="zoomed_frame" src="https://netways.github.io/graphing-training"></iframe>
+</div>
+
+<div class="description">
+<p>
+This training is designed as a two day hands-on training introducing Graphite and Grafana.
+</p>
+<p>
+In the training you will get basic knowledge of Graphite and Grafana.
+</p>
+<p>
+Targeted audience are experienced Linux administrators.
+</p>
+</div>
+<div>
+<ul class="social-media-list">
+<li>
+{% include icon-netrepo.html username="graphing-training" %}
+</li>
+<li>
+{% include icon-releases.html username="graphing-training" %}
+</li>
+</ul>
+</div>
+
 ## Puppet trainings
 ### Fundamentals for Puppet
 
@@ -49,7 +77,7 @@ Targeted audience are experienced Linux administrators in need of a provisioning
 This training is designed as a three days hands-on training introducing Puppet. To continue with puppet take a look at the Puppet Advanced training.
 </p>
 <p>
-In the training you will get basic knowlegde of the Domain-Specific-Language (DSL) of Puppet.
+In the training you will get basic knowledge of the Domain-Specific-Language (DSL) of Puppet.
 </p>
 <p>
 Targeted audience are experienced Linux administrators in need of a configuration management solution for their systems.
@@ -81,7 +109,7 @@ Coming soon ...
 This training is designed as a three days hands-on training introducing Puppet. To continue with programming with puppet take a look at the Fundamentals for Puppet and Puppet Advanced training.
 </p>
 <p>
-In the training you will get advanced knowlegde to integrate Puppet in your infrastructure.
+In the training you will get advanced knowledge to integrate Puppet in your infrastructure.
 </p>
 <p>
 Targeted audience are experienced Linux administrators in need of a configuration management solution for their systems.
@@ -98,7 +126,7 @@ Targeted audience are experienced Linux administrators in need of a configuratio
 </ul>
 </div>
 
-## Elastic training
+## Elastic Stack training
 
 Coming soon ...
 
