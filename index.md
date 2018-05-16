@@ -65,7 +65,48 @@ Targeted audience are experienced Linux administrators.
 </ul>
 </div>
 
+## GitLab training
+
+<div class="wrap">
+<iframe class="zoomed_frame" src="https://netways.github.io/gitlab-training"></iframe>
+</div>
+
+<div class="description">
+<p>
+This training is designed as a two days hands-on training introducing Git, GitLab, Workflows, CI/CD and many best practices.
+</p>
+<p>
+The training participants will get an in-depth insight into the Git basics,
+configuration and "good" commits. They also learn about GitLab basics with
+repository and user management and continue to practice Git version control
+with real-life exercises.
+
+Moving along from standalone environments, participants collaborate with
+others and get an overview on different Git workflows. Continuing with
+practices, the training dives deep into continuous integration and
+delivery (CI/CD) with GitLab, runners and DevOps production pipelines.
+
+On top of that, the training provides more hints on GitLab usage, tools
+for working with Git and anything proven useful for daily best practice.
+</p>
+<p>
+Target audience are developers and Linux administrators.
+</p>
+</div>
+<div>
+<ul class="social-media-list">
+<li>
+{% include icon-netrepo.html username="gitlab-training" %}
+</li>
+<li>
+{% include icon-releases.html username="gitlab-training" %}
+</li>
+</ul>
+</div>
+
+
 ## Puppet trainings
+
 ### Fundamentals for Puppet
 
 <div class="wrap">
